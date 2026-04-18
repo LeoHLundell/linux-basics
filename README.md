@@ -1,6 +1,6 @@
 # Bash Basics
 
-Detta repository innehåller grundläggande Bash-scripts som jag använt för att lära mig programmeringslogik i Linux.
+Detta repository innehåller grundläggande Bash-scripts som jag använt för att bygga upp förståelse för programmeringslogik i Linux.
 
 ## Innehåll
 
@@ -13,8 +13,8 @@ Detta repository innehåller grundläggande Bash-scripts som jag använt för at
 
 ## Exempel
 
-Script för att avgöra om ett tal är jämnt eller udda.
+Script för att avgöra om ett tal är jämnt eller udda, samt enklare menybaserade program.
 
 ## Syfte
 
-Att bygga en stabil grund i Bash och förstå hur script fungerar innan mer avancerade system- och driftrelaterade projekt.
+Att bygga en stabil grund i Bash och förstå hur scripts fungerar innan mer avancerade system- och driftrelaterade projekt.
