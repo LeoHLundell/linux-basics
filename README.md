@@ -1,16 +1,20 @@
-# Linux Basics
+# Bash Basics
 
-Detta repo innehåller mina praktiska övningar inom Linux och cybersäkerhet.
+Detta repository innehåller grundläggande Bash-scripts som jag använt för att lära mig programmeringslogik i Linux.
 
 ## Innehåll
-- Logganalys
-- Bash scripting
-- Filhantering
-- Rättigheter
+
+- Input och output
+- Villkor (if/else)
+- Loopar
+- Funktioner
+- Argumenthantering
+- Enkla matematiska operationer
 
 ## Exempel
-Script för att räkna misslyckade login-försök:
-grep "Failed password" /var/log/auth.log | wc -l
+
+Script för att avgöra om ett tal är jämnt eller udda.
 
 ## Syfte
-Bygga en stark grund inom Linux och systemförståelse inför arbete inom IT och cybersäkerhet.
+
+Att bygga en stabil grund i Bash och förstå hur script fungerar innan mer avancerade system- och driftrelaterade projekt.
